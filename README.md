@@ -10,14 +10,14 @@ gem install 'roo'  #非必要
 
 ## 使用方式
 `> ruby eyes-client.rb 1 0 0 'dev' 3`
-第一個1代表報警
+>第一個1代表報警
 第二個1代表`無`心跳上傳
 第三個1代表`無`log上傳
 第四個dev代表development
 第五個3代表上傳三個thread
 
 `> ruby eyes-client.rb 0 1 1 'pro' 2`
-第一個0代表`無`報警
+>第一個0代表`無`報警
 第二個1代表心跳上傳
 第三個1代表log上傳
 第四個pro代表production
