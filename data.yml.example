@@ -6,6 +6,10 @@ log: [
   "移动网络已连接",
   "解压成功",
   "start full apk down!",
+  "apk ver report. pkg:com.ihop.ota_service2, verName:1.5.160303_2, verCode:4",
+  "apk ver report. pkg:com.ihop.com_service, verName:1.5.160120_1, verCode:8",
+  "pkg:com.china_ihop.donghuawang.fatiguedetect, old vNm:1.040, new vNm:1.037, old vCd:1040, new vCd:1037",
+  "pkg:test.file.zip, old vNm:1.0, new vNm:1.0, old vCd:-1, new vCd:-1",
   ]
 platform:
   dev: 'http://localhost:3000/'
